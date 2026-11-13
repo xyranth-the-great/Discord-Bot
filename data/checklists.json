@@ -1,0 +1,177 @@
+{
+  "1570431952958263348": {
+    "guildId": "1570431952958263348",
+    "title": "IMPORTANT TASK TO DO",
+    "tasks": [
+      {
+        "id": "15b5cb6e",
+        "name": "Subscription (switch to adds on)",
+        "done": true
+      },
+      {
+        "id": "36c3ad93",
+        "name": "Agreement",
+        "done": true
+      },
+      {
+        "id": "d7e94c5d",
+        "name": "SPECIAL CHARACTER FOR PASS",
+        "done": true
+      },
+      {
+        "id": "caeca0d3",
+        "name": "Settings Page",
+        "done": true
+      },
+      {
+        "id": "84b64965",
+        "name": "Required for picture sa logo and items",
+        "done": true
+      },
+      {
+        "id": "222a7b5f",
+        "name": "Mobile UI",
+        "done": true
+      },
+      {
+        "id": "3dec3b64",
+        "name": "dili ma save ang detail sa seller",
+        "done": true
+      },
+      {
+        "id": "0bdb478b",
+        "name": "Download link for Mobile APKs",
+        "done": false
+      },
+      {
+        "id": "50682e4f",
+        "name": "with login or sign up, dapat naay login with google button.",
+        "done": true
+      },
+      {
+        "id": "d1887833",
+        "name": "Show Password",
+        "done": true
+      },
+      {
+        "id": "edbcad67",
+        "name": "password must have number and special character",
+        "done": true
+      },
+      {
+        "id": "e048cb79",
+        "name": "Remove my order navigation in home page kung wala pa ka login/register",
+        "done": true
+      },
+      {
+        "id": "f644ac31",
+        "name": "Change the header color",
+        "done": true
+      },
+      {
+        "id": "670b2144",
+        "name": "required every seller to upload a store front",
+        "done": true
+      },
+      {
+        "id": "c392794c",
+        "name": "One email per user ONLY",
+        "done": true
+      },
+      {
+        "id": "a315673c",
+        "name": "Forgot Password",
+        "done": true
+      },
+      {
+        "id": "4f4700bd",
+        "name": "- [ ] display product image in customer and business owner page",
+        "done": true
+      },
+      {
+        "id": "8d03b543",
+        "name": "seller cannot reserve their own product",
+        "done": true
+      },
+      {
+        "id": "cca19c43",
+        "name": "Improve some bugged ui",
+        "done": false
+      },
+      {
+        "id": "625127f7",
+        "name": "Fix Preference in settings page (preference options should work)",
+        "done": true
+      },
+      {
+        "id": "8d770e8d",
+        "name": "fix UI in ORDER page",
+        "done": true
+      },
+      {
+        "id": "5797217a",
+        "name": "Continue with google should redirect to main dashboard",
+        "done": true
+      },
+      {
+        "id": "454aac6d",
+        "name": "if store is pending for verification, seller shouldn’t be able to edit dashboard or add product",
+        "done": true
+      },
+      {
+        "id": "9b3ab5d6",
+        "name": "Add Carousel animation",
+        "done": true
+      },
+      {
+        "id": "5e0454e1",
+        "name": "Admin can BAN account permanently for misusing the website",
+        "done": false
+      },
+      {
+        "id": "52a49435",
+        "name": "Settings Privacy Fix",
+        "done": false
+      },
+      {
+        "id": "c323d55d",
+        "name": "Verified only shows when certificate is approved",
+        "done": false
+      },
+      {
+        "id": "2e98571d",
+        "name": "15 days account to comply certificate otherwise disable account",
+        "done": false
+      },
+      {
+        "id": "2868e12f",
+        "name": "Change the add product payment from 5 to 2",
+        "done": true
+      },
+      {
+        "id": "7f3b9f3c",
+        "name": "active session, need fixing",
+        "done": false
+      },
+      {
+        "id": "83600d58",
+        "name": "Add a carousel animation on the featured products",
+        "done": false
+      },
+      {
+        "id": "d0403de0",
+        "name": "Has uppercase in password",
+        "done": false
+      },
+      {
+        "id": "bbfc7e3c",
+        "name": "Preview pdf",
+        "done": false
+      }
+    ],
+    "channelId": "1570443161401167983",
+    "updatedBy": "724497435585544224",
+    "messageId": "1570443903050449068",
+    "page": 1
+  }
+}
