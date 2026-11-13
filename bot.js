@@ -18,7 +18,7 @@ const {
   EmbedBuilder,
 } = require("discord.js");
 
-const DATA_DIR = path.join(__dirname, "data");
+const DATA_DIR = process.env.DATA_DIR || path.join(__dirname, "data");
 const DATA_FILE = path.join(DATA_DIR, "checklists.json");
 const MAX_TASKS = 100;
 const TASKS_PER_PAGE = 15;
