@@ -1,0 +1,14 @@
+{
+  "name": "niggachecker",
+  "version": "1.0.0",
+  "description": "A shared clickable checklist bot for Discord",
+  "main": "bot.js",
+  "scripts": {
+    "deploy": "node deploy-commands.js",
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.4.7"
+  }
+}
